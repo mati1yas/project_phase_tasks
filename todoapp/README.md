@@ -2,11 +2,7 @@
 
 A simple to-do app that allows users to create tasks with titles, descriptions, and due dates. Users can also view task details and access a list of tasks. The app was developed using Test-Driven Development (TDD) and follows the Clean Architecture.
 
-## Features
 
-- Create tasks with specific titles, descriptions, and due dates.
-- View details of individual tasks.
-- Access a list of all tasks.
 
 ## Table of Contents
 
@@ -15,12 +11,16 @@ A simple to-do app that allows users to create tasks with titles, descriptions, 
 - [Getting Started](#getting-started)
 - [Architecture](#architecture)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
 The To-Do App is designed to help users manage their tasks efficiently. It offers a simple interface to create tasks and keep track of their details. The app was built using Test-Driven Development to ensure reliability and Clean Architecture to maintain a modular and scalable codebase.
+## Features
+
+- Create tasks with specific titles, descriptions, and due dates.
+- View details of individual tasks.
+- Access a list of all tasks.
 
 ## Getting Started
 
